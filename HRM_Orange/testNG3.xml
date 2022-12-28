@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="asdfghj">
+ <test name="asdfg">
+     <classes>
+       <class name="com.HRM.Testpages.AddEmployee"/>
+        <class name="com.HRM.Testpages.jobTitle_testPage"/>
+         <class name="com.HRM.Testpages.LoginFunctinalityTest"/>
+          <class name="com.HRM.Testpages.LoginHome_pageFunctionality_test"/>
+     </classes>
+ </test><!-- Test -->
+</suite><!-- Test -->
